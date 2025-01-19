@@ -1,1 +1,15 @@
 # REPORT_GEN
+
+**COMPANY** : CODTECH IT SOLUTIONS
+
+**NAME** : PARI KOTESWARA RAO
+
+**INTERN ID** : CT6WKCQ
+
+**DOMAIN** : PYTHON
+
+**BATCH DURATION** : JANUARY 5th,2024 to FEBRUARY 20th,2025
+
+# OUTPUT OF THE TASK
+
+![Image](https://github.com/user-attachments/assets/d56a89b5-0185-4d57-85e0-aaa6540ccbd3)
